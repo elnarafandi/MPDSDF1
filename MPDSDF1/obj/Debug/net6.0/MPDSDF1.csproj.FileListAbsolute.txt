@@ -1,0 +1,14 @@
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\bin\Debug\net6.0\MPDSDF1.exe
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\bin\Debug\net6.0\MPDSDF1.deps.json
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\bin\Debug\net6.0\MPDSDF1.runtimeconfig.json
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\bin\Debug\net6.0\MPDSDF1.dll
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\bin\Debug\net6.0\MPDSDF1.pdb
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\MPDSDF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\MPDSDF1.AssemblyInfoInputs.cache
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\MPDSDF1.AssemblyInfo.cs
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\MPDSDF1.csproj.CoreCompileInputs.cache
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\MPDSDF1.dll
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\refint\MPDSDF1.dll
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\MPDSDF1.pdb
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\MPDSDF1.genruntimeconfig.cache
+C:\Users\Elnare\Desktop\MPDSDF1\MPDSDF1\obj\Debug\net6.0\ref\MPDSDF1.dll
